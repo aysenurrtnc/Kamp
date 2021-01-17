@@ -1,0 +1,6 @@
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/ClassMetotDemo.exe
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/bin/Debug/ClassMetotDemo.pdb
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.csprojAssemblyReference.cache
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.csproj.CoreCompileInputs.cache
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.exe
+/Users/aysenurtunc/Projects/ClassMetotDemo/ClassMetotDemo/obj/Debug/ClassMetotDemo.pdb
