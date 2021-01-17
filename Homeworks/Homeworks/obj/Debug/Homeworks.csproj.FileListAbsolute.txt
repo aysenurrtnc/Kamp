@@ -1,0 +1,6 @@
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/bin/Debug/Homeworks.exe
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/bin/Debug/Homeworks.pdb
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/obj/Debug/Homeworks.csprojAssemblyReference.cache
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/obj/Debug/Homeworks.csproj.CoreCompileInputs.cache
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/obj/Debug/Homeworks.exe
+/Users/aysenurtunc/Projects/Homeworks/Homeworks/obj/Debug/Homeworks.pdb
