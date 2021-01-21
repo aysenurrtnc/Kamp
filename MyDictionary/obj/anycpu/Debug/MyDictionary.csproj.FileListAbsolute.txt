@@ -1,0 +1,6 @@
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/bin/Debug/MyDictionary.exe
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/bin/Debug/MyDictionary.pdb
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/obj/anycpu/Debug/MyDictionary.csproj.CoreCompileInputs.cache
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/obj/anycpu/Debug/MyDictionary.exe
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/obj/anycpu/Debug/MyDictionary.pdb
+/Users/aysenurtunc/Projects/Homeworks/MyDictionary/obj/anycpu/Debug/MyDictionary.csprojAssemblyReference.cache
