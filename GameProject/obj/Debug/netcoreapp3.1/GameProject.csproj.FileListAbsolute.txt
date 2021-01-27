@@ -1,0 +1,12 @@
+/Users/aysenurtunc/Projects/Homeworks/GameProject/bin/Debug/netcoreapp3.1/GameProject.deps.json
+/Users/aysenurtunc/Projects/Homeworks/GameProject/bin/Debug/netcoreapp3.1/GameProject.runtimeconfig.json
+/Users/aysenurtunc/Projects/Homeworks/GameProject/bin/Debug/netcoreapp3.1/GameProject.runtimeconfig.dev.json
+/Users/aysenurtunc/Projects/Homeworks/GameProject/bin/Debug/netcoreapp3.1/GameProject.dll
+/Users/aysenurtunc/Projects/Homeworks/GameProject/bin/Debug/netcoreapp3.1/GameProject.pdb
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.csprojAssemblyReference.cache
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.AssemblyInfoInputs.cache
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.AssemblyInfo.cs
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.csproj.CoreCompileInputs.cache
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.dll
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.pdb
+/Users/aysenurtunc/Projects/Homeworks/GameProject/obj/Debug/netcoreapp3.1/GameProject.genruntimeconfig.cache
